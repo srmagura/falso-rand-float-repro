@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@ngneat/falso": "^6.4.0"
+  }
+}
